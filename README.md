@@ -1,1 +1,3 @@
-# nt_challenge2
+# How to run test
+
+mvn test
