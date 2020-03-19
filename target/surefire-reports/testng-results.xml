@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-19T20:29:32 SGT" name="Command line suite" finished-at="2020-03-19T20:30:15 SGT" duration-ms="42953">
+    <groups>
+      <group name="create">
+        <method signature="UiTest.testAddPhotoToCollection()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" name="testAddPhotoToCollection" class="quangdoan.tests.UiTest"/>
+      </group> <!-- create -->
+    </groups>
+    <test started-at="2020-03-19T20:29:32 SGT" name="Command line test" finished-at="2020-03-19T20:30:15 SGT" duration-ms="42953">
+      <class name="quangdoan.tests.UiTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:29:32 SGT" name="beforeMethod" finished-at="2020-03-19T20:29:43 SGT" duration-ms="11296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeUiTest()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:29:43 SGT" name="beforeUiTest" finished-at="2020-03-19T20:29:49 SGT" duration-ms="6009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeUiTest -->
+        <test-method signature="testAddPhotoToCollection()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:29:49 SGT" name="testAddPhotoToCollection" finished-at="2020-03-19T20:29:54 SGT" duration-ms="4812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddPhotoToCollection -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:29:54 SGT" name="afterMethod" finished-at="2020-03-19T20:29:55 SGT" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:29:55 SGT" name="beforeMethod" finished-at="2020-03-19T20:30:06 SGT" duration-ms="10632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeUiTest()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:30:06 SGT" name="beforeUiTest" finished-at="2020-03-19T20:30:12 SGT" duration-ms="6083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeUiTest -->
+        <test-method signature="testInfo()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:30:12 SGT" name="testInfo" finished-at="2020-03-19T20:30:14 SGT" duration-ms="1985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInfo -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:quangdoan.tests.UiTest@a74868d]" started-at="2020-03-19T20:30:14 SGT" name="afterMethod" finished-at="2020-03-19T20:30:15 SGT" duration-ms="1096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- quangdoan.tests.UiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

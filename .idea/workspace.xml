@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ccd4645-b547-48d4-8f1f-ce6b959a6b0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFwdyFEY1bCvzffEbC0e4CotkJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="TestNG.UiTest.testAddPhotoToCollection">
+    <configuration name="UiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quangdoan.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quangdoan.tests" />
+      <option name="MAIN_CLASS_NAME" value="quangdoan.tests.UiTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiTest.testAddPhotoToCollection (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quangdoan.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quangdoan.tests" />
+      <option name="MAIN_CLASS_NAME" value="quangdoan.tests.UiTest" />
+      <option name="METHOD_NAME" value="testAddPhotoToCollection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiTest.testAddPhotoToCollection (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quangdoan.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quangdoan.tests" />
+      <option name="MAIN_CLASS_NAME" value="quangdoan.tests.UiTest" />
+      <option name="METHOD_NAME" value="testAddPhotoToCollection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiTest.testAddPhotoToCollection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quangdoan.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quangdoan.tests" />
+      <option name="MAIN_CLASS_NAME" value="quangdoan.tests.UiTest" />
+      <option name="METHOD_NAME" value="testAddPhotoToCollection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiTest.testInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quangdoan.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="quangdoan.tests" />
+      <option name="MAIN_CLASS_NAME" value="quangdoan.tests.UiTest" />
+      <option name="METHOD_NAME" value="testInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UiTest.testAddPhotoToCollection" />
+        <item itemvalue="TestNG.UiTest.testInfo" />
+        <item itemvalue="TestNG.UiTest.testAddPhotoToCollection (1)" />
+        <item itemvalue="TestNG.UiTest" />
+        <item itemvalue="TestNG.UiTest.testAddPhotoToCollection (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ccd4645-b547-48d4-8f1f-ce6b959a6b0f" name="Default Changelist" comment="" />
+      <created>1584448240720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584448240720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1584543532291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584543532291" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584528100591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1584528100591" />
+    <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584528601577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1584528601577" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584619488191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584619488191" />
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1584620808710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1584620808710" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1584621568008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584621568008" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1584621589413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584621589413" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1584621589412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584621589412" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1584621589412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584621589412" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1584621589412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584621589412" />
+    <state width="1493" height="224" key="GridCell.Tab.1.bottom" timestamp="1584621589413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584621589413" />
+    <state width="1493" height="224" key="GridCell.Tab.1.center" timestamp="1584621589413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584621589413" />
+    <state width="1493" height="224" key="GridCell.Tab.1.left" timestamp="1584621589413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584621589413" />
+    <state width="1493" height="224" key="GridCell.Tab.1.right" timestamp="1584621589413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584621589413" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1584621571583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584621571583" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1584615767883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1584615767883" />
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584456803002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1584456803002" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/quangdoan/pages/HomePage.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/quangdoan/pages/InfoPage.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/quangdoan/tests/UiTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/quangdoan/biz/Api.java</url>
+          <line>88</line>
+          <properties class="quangdoan.biz.Api">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+quangdoan\biz\Collection.class
+quangdoan\pages\CollectionPage.class
+quangdoan\wd\Manager.class
+quangdoan\pages\BasePage.class
+quangdoan\tests\BaseTest.class
+quangdoan\pages\HomePage.class
+quangdoan\tests\UiTest.class
+quangdoan\pages\InfoPage.class
+quangdoan\biz\Image.class
+quangdoan\wd\Factory.class
+quangdoan\biz\Api.class
